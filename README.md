@@ -36,10 +36,10 @@ Total: ~169M parameters
 
 Evaluated on a 15-question test set covering contact info, psychiatrist details, scholarships, academics, events, and travel. Scores measured with token-level F1 and exact match against extractive targets from source text.
 
-| Metric | Before | After |
-|--------|--------|-------|
-| Exact Match | 0.60 | 0.88 |
-| F1 Score | 0.73 | 0.97 |
+| Metric |  After |
+|--------|-------|
+| Exact Match | 0.88 |
+| F1 Score | 0.97 |
 
 Improvements came from merging fragmented QnA passages, injecting targeted context passages for facts scattered across the corpus, switching from distilbert to roberta-base-squad2, and replacing independent argmax span extraction with a proper beam search.
 
