@@ -1,0 +1,125 @@
+{
+  "average_em": 0.8823529411764706,
+  "average_f1": 0.965686274509804,
+  "results": [
+    {
+      "question": "What are the office timings of the Counselling Service?",
+      "predicted": "11:00 AM - 7:00 PM",
+      "expected": "11:00 AM - 7:00 PM",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "What is the phone number of the Counselling Service?",
+      "predicted": "+91 512 2597784",
+      "expected": "+91 512 2597784",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "What is the email for booking appointments?",
+      "predicted": "counselor@iitk.ac.in",
+      "expected": "counselor@iitk.ac.in",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "Where is Dr. Alok Bajpai trained?",
+      "predicted": "NIMHANS, Bangalore",
+      "expected": "NIMHANS, Bangalore",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "How often does Dr. Alok Bajpai visit the institute?",
+      "predicted": "weekly",
+      "expected": "weekly",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "How often does Dr. Rohan Kumar visit the institute?",
+      "predicted": "twice a month",
+      "expected": "twice a month",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "When is World Suicide Prevention Day observed?",
+      "predicted": "10 September",
+      "expected": "10 September",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "Who is the SBF scholarship awarded to?",
+      "predicted": "all the registered students who are not receiving any other financial assistance and are facing financial hardships",
+      "expected": "all the registered students who are not receiving any other financial assistance and are facing financial hardships",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "How can students apply for the SBF scholarship?",
+      "predicted": "Office Automation (OA) Portal",
+      "expected": "Office Automation (OA) Portal",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "What is the CPI criterion for SBF?",
+      "predicted": "There is no",
+      "expected": "There is no CPI criterion",
+      "em": 0,
+      "f1": 0.75
+    },
+    {
+      "question": "What is the most popular air route to IIT Kanpur?",
+      "predicted": "Lucknow Airport",
+      "expected": "Lucknow Airport",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "How far is IIT Kanpur from Kanpur Central Railway Station?",
+      "predicted": "17 km",
+      "expected": "17 km",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "What is a semester load in credits?",
+      "predicted": "36",
+      "expected": "36 credits",
+      "em": 0,
+      "f1": 0.67
+    },
+    {
+      "question": "Is the counselling service free for students?",
+      "predicted": "free of cost",
+      "expected": "free of cost",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "What is organized every year on Diwali by the Counselling Service?",
+      "predicted": "Hakuna Matata",
+      "expected": "Hakuna Matata",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "What is the CPI criterion for SBF?",
+      "predicted": "There is no",
+      "expected": "There is no",
+      "em": 1,
+      "f1": 1.0
+    },
+    {
+      "question": "What is a semester load in credits?",
+      "predicted": "36",
+      "expected": "36",
+      "em": 1,
+      "f1": 1.0
+    }
+  ]
+}
